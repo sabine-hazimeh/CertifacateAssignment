@@ -29,4 +29,12 @@ body{
     margin: 50px auto;
     line-height: 1.2;
     font-family: cursive;
-}  
+} 
+table, th, tr, td{
+    border: 1px solid #808080;
+    border-collapse: collapse;
+    padding: 5px;
+}
+td{
+    text-align: center;
+}
